@@ -17,13 +17,4 @@ public class MainApplication {
         // petStoreService를 사용하여 비즈니스 로직 수행
         petStoreService.addItem("dog");
     }
-<<<<<<< HEAD
-<<<<<<< HEAD
-           
-=======
-    
->>>>>>> 23f6eb2205f94135d7d2e7ae042209e19bae64df
-=======
-    
->>>>>>> 23f6eb2205f94135d7d2e7ae042209e19bae64df
 }
